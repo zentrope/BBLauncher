@@ -6,5 +6,4 @@ At least, I _think_ that's what's going on.
 
 Regardless, the app is more convenient than a dock folder, which doesn't work for plain old directories.
 
-----
 &copy; Keith Irwin, 2025-Present
