@@ -1,0 +1,6 @@
+.DS_Store
+AppIcons/
+Artwork/*.png
+*.xcuserstate
+project.xcworkspace/
+xcuserdata
