@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct BBLauncherApp: App {
+
+	@State private var showPicker = false
+
     var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
+		MenuBarExtra("BBLauncher", systemImage: "leaf") {
+			ContentView()
+		}
+		.menuBarExtraStyle(.menu)
     }
 }
