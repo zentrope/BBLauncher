@@ -283,7 +283,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 2025.01;
+				MARKETING_VERSION = 2026.01;
 				PRODUCT_BUNDLE_IDENTIFIER = com.zentrope.BBLauncher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
@@ -330,7 +330,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 2025.01;
+				MARKETING_VERSION = 2026.01;
 				PRODUCT_BUNDLE_IDENTIFIER = com.zentrope.BBLauncher;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
